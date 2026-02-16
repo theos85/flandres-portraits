@@ -1,1 +1,7 @@
 project_id = "xmcqsabzpobpnmuqnwsk"
+
+[functions.fetch-insee-data]
+verify_jwt = false
+
+[functions.generate-portrait]
+verify_jwt = false
